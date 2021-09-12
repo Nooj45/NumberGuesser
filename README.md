@@ -15,4 +15,4 @@ Player guesses at a target number against a computer. Closest one wins and there
 No installation. Clone repo and open index.html in a browser of your choice.
 
 ## Image
-![Screenshot](calculator.png)
+![Screenshot](numberGuesser.png)
